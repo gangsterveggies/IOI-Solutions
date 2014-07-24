@@ -6,4 +6,4 @@ A collection of solutions from previous IOIs.
 ### List of Solutions
 
 IOI 2012:
-* Ideal City, Day 2 - 100 _Points_;
+* [Ideal City](https://github.com/gangsterveggies/IOI-Solutions/blob/master/IOI-2012/city.cpp), Day 2 - 100 _Points_;
